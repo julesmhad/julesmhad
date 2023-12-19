@@ -3,7 +3,7 @@
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
 
-<h3> Developer | Scientist | Learner_Forever</h3>
+<h3> Developer | Scientist | Life Long Learner </h3>
 <br>
 -👩‍🎓University of Memphis.<br>
 -📁 Microsoft - Audience Modelling, Similar Audience, Embedding based Ad Retrival.<br>
