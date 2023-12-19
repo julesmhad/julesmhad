@@ -43,10 +43,10 @@
 <a href="#" target="_blank" rel="noopener noreferrer"> <!--Portfolio Website-->
   <img src="https://img.icons8.com/fluent/2x/portfolio.png" width="50"/>
  </a>
- <a href="https://twitter.com/MeRahil_2408" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/twitter.png" width="50" /></a>  
- <a href="https://www.instagram.com/rahill_2408/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>  
- <a href="https://www.linkedin.com/in/rahil-mehta-240534201/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
- <a href="mailto:julesam.ict19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png"  width="50" /></a>
+ <a href="https://twitter.com/julesam" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/twitter.png" width="50" /></a>  
+ <a href="https://www.instagram.com/julesamhd/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>  
+ <a href="https://www.linkedin.com/in/julesam/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
+ <a href="mailto:julesmhad@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png"  width="50" /></a>
 <br> <br>
 
 <h2 align="left"> Github Statistics 📈 </h2>
