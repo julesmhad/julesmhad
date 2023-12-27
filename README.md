@@ -8,7 +8,8 @@
 
 -📘 I lead a freelance where i help with deployment of local LLM stack using Ollama (Llama v2), Supabase pgvector, Langchain.js and Nextjs <br>
 -📘 I can help you deploy conversational AI applications and chatbots with frameworks like LLamaIndex, LangChain, Rasa, BotPress, Diagflow, with atleast 15% more customer engagement and 30%     reduced latency/wait times compared to prior baselines. <br>
-- Previously: 
+
+<br> Previously <br>
 -📁 Microsoft - Audience Modelling, Similar Audience, Embedding based Ad Retrival.<br>
 -📁 IBM - Hyper Protect Data Controller.<br>
 -📁 BEDC Electric - Energy Analytics, Energy Billing, Customer Retention and Churn Models.<br>
