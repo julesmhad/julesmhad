@@ -6,8 +6,12 @@
 <h3> Developer | Scientist | Life Long Learner </h3>
 <br>
 
--📘 I lead a freelance where i help with deployment of local LLM stack using Ollama (Llama v2), Supabase pgvector, Langchain.js and Nextjs <br>
--📘 I can help you deploy conversational AI applications and chatbots with frameworks like LLamaIndex, LangChain, Rasa, BotPress, Diagflow, with atleast 15% more customer engagement and 30%     reduced latency/wait times compared to prior baselines. <br>
+-📘 I can help you finetune and deploy domain specific/context aware multimodal AI (LLM) applications and chatbots with atleast 15% more customer engagement and 30% reduced latency/wait times compared to prior baselines with frameworks like LLamaIndex, LangChain, Rasa, BotPress, Diagflow,<br>
+-📘 I'll help deploy and develop a local LLM stack using Ollama (Llama v2), Supabase pgvector, Langchain.js and Nextjs if you don't prefer API connections to your data source <br>
+-📘 We could design database setup for AI applications with both NoSQL dBs and new vectorDBs like Pinecone, Milvus, Pinecone, Weaviate etc. and determine project scope, Roadmap, KPIs and implementation timeline.
+-📘 If interested we can actively research on production implementation of LLMs to enable enterprise grade products without uncertainty in performance.
+
+
 
 <br> Previously <br>
 -📁 Microsoft - Audience Modelling, Similar Audience, Embedding based Ad Retrival.<br>
