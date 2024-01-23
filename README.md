@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Jules. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<p align="left"> <img   src="https://komarev.com/ghpvc/?username=julesam" alt="Jules" /> </p>
+<p align="left"> <img   src="https://komarev.com/ghpvc/?username=julesmhad" alt="Jules" /> </p>
 
 <h2 align = "left"> About Me 👩‍💻 </h2>
 
@@ -37,11 +37,11 @@
   <img height="35" src="https://img.icons8.com/color/2x/mysql-logo.png">
   </p>
   <h4> PLATFORMS</h4>
-  <p><a href="https://github.com/julesam"><img height="35" src="https://img.icons8.com/color/2x/github.png">
-  <a href="https://leetcode.com/julesam/"><img height="35" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png">
-    <a href="https://auth.geeksforgeeks.org/user/julesam/profile"><img height="35" src="https://img.icons8.com/color/452/GeeksforGeeks.png">
+  <p><a href="https://github.com/julesmhad"><img height="35" src="https://img.icons8.com/color/2x/github.png">
+  <a href="https://leetcode.com/julesmhad/"><img height="35" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png">
+    <a href="https://auth.geeksforgeeks.org/user/julesmhad/profile"><img height="35" src="https://img.icons8.com/color/452/GeeksforGeeks.png">
       <a href="https://my-learning.w3schools.com/"><img height="35" src="https://image.pngaaa.com/977/3731977-middle.png">
-        <a href="https://www.hackerrank.com/julesam"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
+        <a href="https://www.hackerrank.com/julesmhad"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
           </p>
        <br> 
 <h2 align = "left"> Connect with me 🤝</h2>
@@ -50,21 +50,21 @@
 <a href="#" target="_blank" rel="noopener noreferrer"> <!--Portfolio Website-->
   <img src="https://img.icons8.com/fluent/2x/portfolio.png" width="50"/>
  </a>
- <a href="https://twitter.com/julesam" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/twitter.png" width="50" /></a>  
- <a href="https://www.instagram.com/julesamhd/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>  
- <a href="https://www.linkedin.com/in/julesam/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
+ <a href="https://twitter.com/julesmhad" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/twitter.png" width="50" /></a>  
+ <a href="https://www.instagram.com/julesmhadhd/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/instagram-new.png" width="50" /></a>  
+ <a href="https://www.linkedin.com/in/julesmhad/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/linkedin.png" width="50" /></a>
  <a href="mailto:julesmhad@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/2x/gmail.png"  width="50" /></a>
 <br> <br>
 
 <h2 align="left"> Github Statistics 📈 </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julesam&langs_count=10&theme=tokyonight&layout=compact" alt="toplang Rahil" height="250" width=45% /><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julesam&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=40" alt="github stats Rahil" height="250" width=45% />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julesmhad&langs_count=10&theme=tokyonight&layout=compact" alt="toplang Rahil" height="250" width=45% /><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julesmhad&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=40" alt="github stats Rahil" height="250" width=45% />
   <br>
-<img align="centre" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=julesam&theme=tokyonight" />
+<img align="centre" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=julesmhad&theme=tokyonight" />
 </p>
 <br>
 <br>
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=julesam&theme=juicyfresh&no-bg=true" /> -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=julesmhad&theme=juicyfresh&no-bg=true" /> -->
 
 
 
@@ -73,7 +73,7 @@
 
 
 <!--
-**julesam/julesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**julesmhad/julesmhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
