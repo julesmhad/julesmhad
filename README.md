@@ -7,10 +7,6 @@
 <br>
 
 -📘 I can help you finetune and deploy domain specific/context aware multimodal AI (LLM) applications and chatbots with atleast 15% more customer engagement and 30% reduced latency/wait times compared to prior baselines with frameworks like LLamaIndex, LangChain, Rasa, BotPress, Diagflow,<br>
--📘 I can help design your ELT setup, tokenize your datasets for AI applications for both NoSQL dBs and new vectorDBs like Pinecone, Milvus, Pinecone, Weaviate etc. and determine project scope, Roadmap, KPIs and implementation timeline. <br>
--📘 I'll help deploy and develop a local LLM stack using Ollama (Llama v2), Supabase pgvector, Langchain.js and Nextjs if you don't prefer API connections to your data source <br>
--📘 If interested we can actively research on production implementation of LLMs to enable enterprise grade products without uncertainty in performance.
-
 
 
 <br> Previously <br>
